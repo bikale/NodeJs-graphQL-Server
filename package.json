@@ -4,16 +4,14 @@
   "description": "The basics of GraphQL and Apollo",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app"
+    "start": "nodemon app.js"
   },
   "author": "Bikale Aberra",
   "license": "ISC",
   "dependencies": {
-    "apollo-server-express": "^2.11.0",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
     "graphql": "^14.6.0",
-    "graphql-tools": "^4.0.7",
     "nodemon": "^2.0.2"
   }
 }
